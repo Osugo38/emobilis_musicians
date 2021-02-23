@@ -1,0 +1,26 @@
+*{
+   background-color: bisque;
+   font-family: "DejaVu Serif Condensed";
+   justify-content: center;
+}
+
+img{
+   width: 100px;
+   height: 100px;
+}
+button{
+
+}
+.button1{
+   margin: 40px;
+   height: 10em;
+   display: flex;
+   align-items:center;
+   justify-content: enter
+
+}
+body.h1{
+   padding-left: 150px;
+   align-items: center;
+   justify-content: center
+}
